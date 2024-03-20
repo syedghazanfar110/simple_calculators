@@ -1,0 +1,19 @@
+{
+  "name": "gh110simple_calculator",
+  "version": "1.0.1",
+  "description": "A simple calculator user input",
+  "main": "index.js",
+  "type": "module",
+  "Bin": "cal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghazanfar",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
